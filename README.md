@@ -1,4 +1,4 @@
-# Olá, sou o Kaua
+# Olá, sou  KauÃ Alexandre
 
 Estudo programação por meio de exercícios e projetos práticos em **C**, **Python** e **desenvolvimento web**.
 
