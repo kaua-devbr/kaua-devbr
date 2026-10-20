@@ -13,6 +13,10 @@ Sou **Kauã Alexandre**, estudante de Desenvolvimento de Sistemas. Aprendo progr
 
 Por aqui, compartilho estudos com visualização gráfica, geração de documentos e interfaces — um projeto de cada vez.
 
+### Estudando atualmente
+
+🌱 **Flask** — aprendendo desenvolvimento web com Python.
+
 ### Linguagens que uso nos meus projetos
 
 <p align="center">
